@@ -18,3 +18,16 @@ Check us out on [Twitter](https://twitter.com/ChicagoCppUsers)
 Follow us on [LinkedIn](https://www.linkedin.com/company/chicago-cpp-users/about/)
 <script src="https://platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
 <script type="IN/FollowCompany" data-id="81519441" data-counter="none"></script>
+
+## News
+
+5/23/2022:  
+Our first hybrid event has been scheduled! RSVP now! Matt Godbolt will be presenting: [C++'s Super Power](events/2022-06)  
+There's a lot of energy for meeting again in person after over 2 years!  
+Look for more information coming soon, as we experiment with expanding our outreach.
+
+
+## Events
+
+2022-06-13: Matt Godbolt presents [C++'s Super Power](events/2022-06)
+
