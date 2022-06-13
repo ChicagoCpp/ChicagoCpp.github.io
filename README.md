@@ -21,6 +21,10 @@ Follow us on [LinkedIn](https://www.linkedin.com/company/chicago-cpp-users/about
 
 ## News
 
+6/13/2022:  
+Announcing our next event! [RSVP now](https://www.meetup.com/Chicago-C-CPP-Users-Group/events/)! Mike Spertus will be presenting: [How to "OO" in C++](events/2022-07)
+Chicago's own Mike Spertus is a world-class technologist and a fantastic presenter. His presentations are highly enjoyable and packed with deep insights. This is one you surely won't want to miss.
+
 5/23/2022:  
 Our first hybrid event has been scheduled! [RSVP now](https://www.meetup.com/Chicago-C-CPP-Users-Group/events/286101553)! Matt Godbolt will be presenting: [C++'s Super Power](events/2022-06)  
 There's a lot of energy for meeting again in person after over 2 years!  
@@ -29,5 +33,6 @@ Look for more information coming soon, as we experiment with expanding our outre
 
 ## Events
 
-2022-06-13: Matt Godbolt presents [C++'s Super Power](events/2022-06)
+* 2022-07-05: Mike Spertus presents [How to "OO" in C++](events/2022-07)
+* 2022-06-13: Matt Godbolt presents [C++'s Super Power](events/2022-06)
 
