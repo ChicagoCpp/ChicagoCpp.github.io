@@ -19,7 +19,7 @@ Follow us on [LinkedIn](https://www.linkedin.com/company/chicago-cpp-users/about
 <script src="https://platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
 <script type="IN/FollowCompany" data-id="81519441" data-counter="none"></script>
 
-Follow us on Instagram:
+See what's happening on Instagram:
 {% include instagram.html id="Ce8-iSYOymv" %}
 
 ## News
