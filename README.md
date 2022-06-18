@@ -13,11 +13,14 @@ Welcome to the home of the Chicago C/C++ Users Group. We are dedicated to enrich
 To see and register for upcoming events, please visit out [Meetup page](https://www.meetup.com/Chicago-C-CPP-Users-Group)
 
 Check us out on [Twitter](https://twitter.com/ChicagoCppUsers)
-<a href="https://twitter.com/ChicagoCppUsers?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ChicagoCppUsers</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/ChicagoCppUsers?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ChicagoCppUsers</a>
 
 Follow us on [LinkedIn](https://www.linkedin.com/company/chicago-cpp-users/about/)
 <script src="https://platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
 <script type="IN/FollowCompany" data-id="81519441" data-counter="none"></script>
+
+Follow us on Instagram:
+{% include instagram.html id="Ce8-iSYOymv" %}
 
 ## News
 
@@ -36,3 +39,5 @@ Look for more information coming soon, as we experiment with expanding our outre
 * 2022-07-05: Mike Spertus presents [How to "OO" in C++](events/2022-07)
 * 2022-06-13: Matt Godbolt presents [C++'s Super Power](events/2022-06)
 
+<script async src="//www.instagram.com/embed.js"></script>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
