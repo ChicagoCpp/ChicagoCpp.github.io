@@ -12,6 +12,8 @@ Welcome to the home of the Chicago C/C++ Users Group. We are dedicated to enrich
 
 To see and register for upcoming events, please visit out [Meetup page](https://www.meetup.com/Chicago-C-CPP-Users-Group)
 
+Continue learning and networking by checkout out some other great organizations at our [affiliates page](./affiliates.md)
+
 Check us out on [Twitter](https://twitter.com/ChicagoCppUsers)
 <a href="https://twitter.com/ChicagoCppUsers?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ChicagoCppUsers</a>
 
@@ -41,3 +43,5 @@ Look for more information coming soon, as we experiment with expanding our outre
 
 <script async src="//www.instagram.com/embed.js"></script>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
