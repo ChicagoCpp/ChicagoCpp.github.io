@@ -26,6 +26,11 @@ See what's happening on Instagram:
 
 ## News
 
+8/24/2022:
+Announcing our next event! [RSVP now](https://www.meetup.com/chicago-c-cpp-users-group/events/288020086/)!
+Ron Ryan will present, [Poor Man’s Introspection and Reflection in C++: Effective Pointer-to-Member Use](events/2022-09)
+Come learn about the mysterious pointer-to-member and how it can be utilized to great effect to provide simplified serialization in a reflection-less C++.
+
 7/26/2022:
 We are hosting a panel discussion to recognize our interns and some of the professionals in Chicago who help college students to make a successful transition to post-college careers.
 Check out the details, [here](events/2022-08) and RSVP now for [in-person](https://www.meetup.com/chicago-c-cpp-users-group/events/287439990/) or [virtual](https://www.meetup.com/chicago-c-cpp-users-group/events/287440046/)
@@ -42,7 +47,8 @@ Look for more information coming soon, as we experiment with expanding our outre
 
 ## Events
 
-* 2022-08-09: Panel Discussion: [Preparing to Launch: Moving from College to Career](events/2022-08)
+* 2022-09-20: Ron Ryan presents: [Poor Man’s Introspection and Reflection in C++: Effective Pointer-to-Member Use](events/2022-09)
+* 2022-08-09: Panel discussion: [Preparing to Launch: Moving from College to Career](events/2022-08)
 * 2022-07-05: Mike Spertus presents [How to "OO" in C++](events/2022-07)
 * 2022-06-13: Matt Godbolt presents [C++'s Super Power](events/2022-06)
 
