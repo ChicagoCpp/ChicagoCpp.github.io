@@ -47,6 +47,7 @@ Look for more information coming soon, as we experiment with expanding our outre
 
 ## Events
 
+* 2022-11-16: Patrick Angeles presents: [Intro to Redpanda: Thread-per-core Architecture in C++](events/2022-11)
 * 2022-09-20: Ron Ryan presents: [Poor Man’s Introspection and Reflection in C++: Effective Pointer-to-Member Use](events/2022-09)
 * 2022-08-09: Panel discussion: [Preparing to Launch: Moving from College to Career](events/2022-08)
 * 2022-07-05: Mike Spertus presents [How to "OO" in C++](events/2022-07)
