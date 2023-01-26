@@ -26,6 +26,11 @@ See what's happening on Instagram:
 
 ## News
 
+1/25/2023:
+Join us for our first event of 2023! [RSVP now](https://www.meetup.com/chicago-c-cpp-users-group/events/291196508/)!
+Next Tuesday, January 31st 2023, Barry Revzin will present: [Defining Range Formatting](events/2023-01)
+Come hear about this developing feature from the man, the myth, the legend that is working to define it: the union of ranges and std::format()
+ 
 8/24/2022:
 Announcing our next event! [RSVP now](https://www.meetup.com/chicago-c-cpp-users-group/events/288020086/)!
 Ron Ryan will present, [Poor Man’s Introspection and Reflection in C++: Effective Pointer-to-Member Use](events/2022-09)
@@ -47,6 +52,7 @@ Look for more information coming soon, as we experiment with expanding our outre
 
 ## Events
 
+* 2023-01-31: Barry Revzin presents: [Defining Range Formatting](events/2023-01)
 * 2022-11-16: Patrick Angeles presents: [Intro to Redpanda: Thread-per-core Architecture in C++](events/2022-11)
 * 2022-09-20: Ron Ryan presents: [Poor Man’s Introspection and Reflection in C++: Effective Pointer-to-Member Use](events/2022-09)
 * 2022-08-09: Panel discussion: [Preparing to Launch: Moving from College to Career](events/2022-08)
