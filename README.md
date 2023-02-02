@@ -14,6 +14,8 @@ To see and register for upcoming events, please visit out [Meetup page](https://
 
 Continue learning and networking by checkout out some other great organizations at our [affiliates page](./affiliates.md)
 
+Missed an event? Want to revisit one? We have a [YouTube](https://www.youtube.com/@chicagocpp/featured) channel with videos of our events!
+
 Check us out on [Twitter](https://twitter.com/ChicagoCppUsers)
 <a href="https://twitter.com/ChicagoCppUsers?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ChicagoCppUsers</a>
 
