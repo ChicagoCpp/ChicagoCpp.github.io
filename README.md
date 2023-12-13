@@ -28,6 +28,11 @@ See what's happening on Instagram:
 
 ## News
 
+12/13/2023:
+It's been a spell, but we're getting back together! [RSVP now](https://www.meetup.com/chicago-c-cpp-users-group/events/297786759/)!
+This Wednesday, Rob Zeh and possible special guest, Lou Zeh, will be presenting: [C++ Now and "Then"](events/2023-12)
+They will be presenting an assortment of various code examples from past to present, demonstrating the evolution of C++.
+ 
 1/25/2023:
 Join us for our first event of 2023! [RSVP now](https://www.meetup.com/chicago-c-cpp-users-group/events/291196508/)!
 Next Tuesday, January 31st 2023, Barry Revzin will present: [Defining Range Formatting](events/2023-01)
