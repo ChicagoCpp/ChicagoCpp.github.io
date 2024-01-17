@@ -28,6 +28,11 @@ See what's happening on Instagram:
 
 ## News
 
+01/16/2024:
+Happy new year! We're excited to announce the next meetup with veteran and world-reknown yet local speaker, Mike Spertus
+[RSVP now](https://www.meetup.com/chicago-c-cpp-users-group/events/298599892/)
+Mike will be introducing us to the possibilities of running C++ in the cloud in a more natural, user-friendly way.
+
 12/13/2023:
 It's been a spell, but we're getting back together! [RSVP now](https://www.meetup.com/chicago-c-cpp-users-group/events/297786759/)!
 This Wednesday, Rob Zeh and possible special guest, Lou Zeh, will be presenting: [C++ Now and "Then"](events/2023-12)
