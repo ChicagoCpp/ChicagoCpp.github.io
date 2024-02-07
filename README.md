@@ -28,6 +28,15 @@ See what's happening on Instagram:
 
 ## News
 
+02/06/2024:
+
+CppOnline 2024 kicks off on February 28th, running to March 2nd. This live-streamed C++ Conference features speakers from across the globe. Tickets are still available, and they have reached out to offer members of our meetup a 20% discount. 
+For more information, please check out their main page [https://cpponline.uk/](https://cpponline.uk/). 
+The registration link can be found [here](https://cpponline.uk/registration). 
+Use promo code "CPPOnlineChicago" for 20% off
+
+Happy Learning!
+
 01/16/2024:
 Happy new year! We're excited to announce the next meetup with veteran and world-reknown yet local speaker, Mike Spertus
 [RSVP now](https://www.meetup.com/chicago-c-cpp-users-group/events/298599892/)
