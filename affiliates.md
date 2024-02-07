@@ -6,3 +6,7 @@
 
 CppNorth is a production of CppToronto, a non-profit organization that aims to provide an 
 open and collaborative place where software developers can meet and discuss C++.
+
+[![CppOnline](./logos/CppOnline-Circle.psd)](https://cpponline.uk/)
+
+CppOnline is an online-only C++ Conference bringing together people from across the globe to share and learn.
