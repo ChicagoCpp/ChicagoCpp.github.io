@@ -28,6 +28,11 @@ See what's happening on Instagram:
 
 ## News
 
+11/07/2024:
+
+It's been a bit, but we're happy to be returning to TeamWorking by TechNexus next week, Thursday Nov 14th, to hear super-clever, first-time speaker, Jeremy Rifkin, walk us through everything about stack tracing in C++.
+Come meet great people and hear some great tips on getting better debug info!
+
 02/06/2024:
 
 CppOnline 2024 kicks off on February 28th, running to March 2nd. This live-streamed C++ Conference features speakers from across the globe. Tickets are still available, and they have reached out to offer members of our meetup a 20% discount. 
