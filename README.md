@@ -30,8 +30,9 @@ See what's happening on Instagram:
 
 11/07/2024:
 
-It's been a bit, but we're happy to be returning to TeamWorking by TechNexus next week, Thursday Nov 14th, to hear super-clever, first-time speaker, Jeremy Rifkin, walk us through everything about stack tracing in C++.
+It's been a bit, but we're happy to be returning to TeamWorking by TechNexus next week, Thursday Nov 14th, to hear super-clever, first-time speaker, Jeremy Rifkin, walk us through everything about [stack tracing in C++](events/2024-11.md).
 Come meet great people and hear some great tips on getting better debug info!
+[RSVP now](https://www.meetup.com/chicago-c-cpp-users-group/events/304442574/)
 
 02/06/2024:
 
