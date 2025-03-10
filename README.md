@@ -28,6 +28,16 @@ See what's happening on Instagram:
 
 ## News
 
+03/10/2025
+
+We are excited to be co-hosting another campus event this Friday. Come see Matt Godbolt present! [Details here](events/2025-03-14.md)
+
+
+01/24/2025:
+
+We were happy to be on-site with U Chicago students for a wonderful industry panel! Thanks to U Chicago staff, our panelists, Selby Jennings, and especially Kaitlyn Zhang without who this event would not have happened!
+
+
 11/07/2024:
 
 It's been a bit, but we're happy to be returning to TeamWorking by TechNexus next week, Thursday Nov 14th, to hear super-clever, first-time speaker, Jeremy Rifkin, walk us through everything about [stack tracing in C++](events/2024-11.md).
