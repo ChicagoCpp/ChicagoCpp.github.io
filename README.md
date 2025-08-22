@@ -28,6 +28,10 @@ See what's happening on Instagram:
 
 ## News
 
+8/22/2025
+
+Please join us to hear Jay Schacter present an updated view on his 42 career teaching C and C++! [Details here](events/2025-09.md)
+
 03/10/2025
 
 We are excited to be co-hosting another campus event this Friday. Come see Matt Godbolt present! [Details here](events/2025-03-14.md)
