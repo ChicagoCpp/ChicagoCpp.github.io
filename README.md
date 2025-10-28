@@ -30,7 +30,7 @@ See what's happening on Instagram:
 
 8/22/2025
 
-Please join us to hear Jay Schachter present an updated view on his 42 career teaching C and C++! [Details here](events/2025-09.md)
+Please join us to hear Jay Shachter present an updated view on his 42 career teaching C and C++! [Details here](events/2025-09.md)
 
 03/10/2025
 
