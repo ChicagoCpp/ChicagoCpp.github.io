@@ -28,6 +28,10 @@ See what's happening on Instagram:
 
 ## News
 
+02/09/2026
+
+Please join us Feb 19th to hear Walter Brown present Irksome C++ [Details here](events/2026-02.md)
+
 8/22/2025
 
 Please join us to hear Jay Shachter present an updated view on his 42 career teaching C and C++! [Details here](events/2025-09.md)
