@@ -10,6 +10,8 @@
 
 Welcome to the home of the Chicago C/C++ Users Group. We are dedicated to enriching and expanding the usage of C and C++ within the Chicago development community.
 
+We're a part of the [Global C++ User's Group](https://globalcpp.github.io/), an active community that hosts virtual presentations and other regional C++ User's Groups.
+
 To see and register for upcoming events, please visit out [Meetup page](https://www.meetup.com/Chicago-C-CPP-Users-Group)
 
 Continue learning and networking by checkout out some other great organizations at our [affiliates page](./affiliates.md)
