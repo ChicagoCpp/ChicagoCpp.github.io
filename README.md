@@ -30,6 +30,10 @@ See what's happening on Instagram:
 
 ## News
 
+02/12/2026
+
+Our friends at NDC {Toronto} are offering a discount to the Chicago C++ User Group. [Details here](offers/NDCToronto2026.pdf)
+
 02/09/2026
 
 Please join us Feb 19th to hear Walter Brown present Irksome C++ [Details here](events/2026-02.md)
