@@ -30,6 +30,14 @@ See what's happening on Instagram:
 
 ## News
 
+03/12/2026
+
+Thanks to Jack Heard for his presentation today, Journeying through Optimization with Heuristic. You can checkout the [video](https://youtu.be/KnmgltlXSKI) and the [slides](https://docs.google.com/presentation/d/1f-IIbyFdCPHkM0e2uME7IFAVMsIfTm5_/edit?usp=sharing&ouid=114440390476514521325&rtpof=true&sd=true)
+
+02/19/2026
+
+Thanks to Dr. Walter E. Brown for his presentation today, Irksome C++. Checkout the [video](https://youtu.be/1moD6fvgE-I)
+
 02/12/2026
 
 Our friends at NDC {Toronto} are offering a discount to the Chicago C++ User Group. [Details here](offers/NDCToronto2026.pdf)
